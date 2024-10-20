@@ -75,6 +75,7 @@ The development is 100% funded by heroic people like you. If you have problems w
  - **Bitcoin**: `12isaLkH8nZ4DkFguVFeYrGHqQi7EEgUrM `
  - **USDT TRC20**: `TK79fzUYwRtmANuLjk1Zzhz3hjTaFQbxfg`
  - **Monero**: `48j4Mo7J7t51EeBf35Lpdmehmi9chUwzSXxHrnjpRJ6fPQafPWvSCdFafw3rA5ZRWievfYEDToNso8VppbJf2RVH9cdZmHa`
+ - **PayPal**: [paypal.me/YaroslavPronin](https://paypal.me/YaroslavPronin)
  - **YooMoney (ЮMoney)**: `410011738561939`
  - **Patreon**: [patreon.com/YaroslavPronin](https://patreon.com/YaroslavPronin)
  - **Boosty**: [boosty.to/yaroslavpronin/donate](https://boosty.to/yaroslavpronin/donate)
